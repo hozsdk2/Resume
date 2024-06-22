@@ -1,0 +1,41 @@
+*{
+    font-family: 'Times New Roman', serif;
+    background-color: rgb(153, 152, 152);
+    text-align: center;
+}
+p{
+    font-size: 1.25rem;
+}
+#profile{
+
+}
+#portrait{
+    border: solid black 5px;
+}
+#education{
+
+}
+#experiances{
+
+}
+#skills{
+
+}
+#birth p{
+    font-size: 1.75rem;
+}
+#nationality p{
+    font-size: 1.75rem;
+}
+#marital p{
+    font-size: 1.75rem;
+}
+#phone p{
+    font-size: 1.5rem;
+}
+#email p{
+    font-size: 1.5rem;
+}
+#location p{
+    font-size: 1.5rem;
+}
